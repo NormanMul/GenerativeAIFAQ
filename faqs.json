@@ -1,0 +1,59 @@
+{
+    "faqs": [
+        {
+            "question": "Why didn't the Citizen Services Department notify me about my expiring ID card?",
+            "intent": "FAQ 1: Why didn't the Citizen Services Department notify me about my expiring ID card?",
+            "response": "The department no longer sends hard copy notifications. As of April 2023, you should receive a digital notification through the contact details you provided during your previous ID application. If you did not receive a notification, kindly check your details in our Service App."
+        },
+        {
+            "question": "Can I still travel with an ID card which is expiring in 1 months' time or less?",
+            "intent": "FAQ 2: Can I still travel with an ID card which is expiring in 1 months' time or less?",
+            "response": "Generally, the national norm is that an ID card must have at least 1 month's validity at the point of entry. You will need to call the embassy of the country you are travelling to, to ask whether they will allow you to enter their country with less than 1 month's validity."
+        },
+        {
+            "question": "Can I extend the validity of my existing ID card?",
+            "intent": "FAQ 3: Can I extend the validity of my existing ID card?",
+            "response": "Unfortunately, extending the validity of an existing ID card is not an option. A new ID card application is necessary, and the standard ID card fee will be applied."
+        },
+        {
+            "question": "How can I apply for an ID card while residing in Indonesia?",
+            "intent": "FAQ 4: How can I apply for an ID card while residing in Indonesia?",
+            "response": "You may submit the ID application via the following modes:\n- Online (Preferred): Log in to our Service App and submit for yourself or on behalf of the applicant with your valid ID number. You are encouraged to apply for your passport online. For applicants who had entered a valid email address in their online application, an email notification will be sent to you once the ID card is ready for collection.\n- By Post: To apply by post, you need to mail in your completed application form to ID card Unit, Citizen Services Department building, 12 WIZ Road. The processing time can take 3 to 5 days after your application is received."
+        },
+        {
+            "question": "How long will the application procedure take?",
+            "intent": "FAQ 5: How long will the application procedure take?",
+            "response": "The processing time for an ID Card is around 3 to 5 days upon Citizen Services Department's receipt of the application. It may take longer if your photograph does not meet the requirements. You will be notified by text message or email, so please keep an eye out for it."
+        },
+        {
+            "question": "How do I check the status of my ID card application?",
+            "intent": "FAQ 6: How do I check the status of my ID card application?",
+            "response": "If you submitted your application online, you can check the status of your application online by logging in to Service App using your ID number. Or you can also email WIZ_Service@wiz.ai. If you submitted a hardcopy via post, you may check on it via our Citizen Services Department website online. Alternatively, you may write in to WIZ_Service@wiz.ai."
+        },
+        {
+            "question": "Can I expedite my ID card application?",
+            "intent": "FAQ 7: Can I expedite my ID card application?",
+            "response": "This depends on if it’s urgent for you to get your ID. If yes (within 3 days), please bring the necessary documents and come down to the Citizen Services Department building, Level 4, ID card Unit. We're open on weekdays from 8:30 am to 5:30 pm, and Saturdays from 8 am to 11:30 am. We are closed on Sundays and Public Holidays. It’s recommended to come by in the morning, it will be much faster."
+        },
+        {
+            "question": "What documents do I need to bring if I go to the Citizen Services Department to expedite my ID card application?",
+            "intent": "FAQ 8: What documents do I need to bring if I go to the Citizen Services Department to expedite my ID card application?",
+            "response": "For the applicant who is older than 15 years old, you need to bring your current ID card. Second, proof of your urgent travel plans, for example hotel reservations or flight tickets. Finally, a one-inch photograph, taken within 3 months. For others, remember to bring your current ID card. Second, your original birth certificate. Third, proof of urgent travel plans, for example hotel reservations or flight tickets. Finally, a one-inch photograph, taken within 3 months."
+        },
+        {
+            "question": "Where is the Citizen Services Department?",
+            "intent": "FAQ 9: Where is the Citizen Services Department?",
+            "response": "The Citizen Services Department building is at 12 WIZ Road."
+        },
+        {
+            "question": "What are the operating hours for Citizen Services Department?",
+            "intent": "FAQ 10: What are the operating hours for Citizen Services Department?",
+            "response": "The operating hours are 8:30 am to 5:30 pm, and Saturdays from 8 am to 11:30 am. We are closed on Sundays and Public Holidays."
+        },
+        {
+            "question": "To whom i need to contact for another related question?",
+            "intent": "FAQ 11: to whom i need to contact for another related question?",
+            "response": "You could access our hotline to 0871234567890 or wiz@wiz.com"
+        }
+    ]
+}
